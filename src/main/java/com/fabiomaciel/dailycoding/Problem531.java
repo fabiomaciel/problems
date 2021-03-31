@@ -11,7 +11,7 @@ public class Problem531 {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        File file = new File("src/main/resources/hw.txt");
+        File file = new File("src/main/resources/problem531/hw.txt");
         stream = new FileInputStream(file);
 
         int iterations = 3;
